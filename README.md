@@ -32,7 +32,7 @@ Before running the project, you will need:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Rishi-Kora/local_chatbot_using_gemini.git](https://github.com/Rishi-Kora/local_chatbot_using_gemini.git)
+   git clone https://github.com/Rishi-Kora/local_chatbot_using_gemini.git
    cd local_chatbot_using_gemini
    ```
 
