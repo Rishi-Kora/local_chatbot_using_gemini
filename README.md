@@ -66,3 +66,5 @@ local_chatbot_using_gemini/
 ```
 ## License
 This project is licensed under the **MIT License**. See [LICENSE](./LICENSE) for details.
+
+**NOTE:** Use your own **Model** and **API Key.**
